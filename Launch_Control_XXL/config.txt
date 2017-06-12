@@ -1,0 +1,8 @@
+_1.0
+_0
+Returns_mode=1
+Max_returns=-1
+Track_bank=8
+Pans_enabled=1
+Show_master=1
+Log=0

@@ -1,0 +1,313 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"no",
+				"None\tinstance"
+			],
+			[
+				"dev",
+				"device_settings_mode"
+			],
+			[
+				"L",
+				"LIVE_CHANNEL\tstatement"
+			],
+			[
+				"cha",
+				"_channelSet"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Abtest.py",
+			"settings":
+			{
+				"buffer_size": 7813,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/NanoPad2/NanoPad2.py",
+			"settings":
+			{
+				"buffer_size": 1734,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"hola",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Abtest"
+	],
+	"file_history":
+	[
+		"/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/NanoPad2/nanopadProj.sublime-project",
+		"/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Abtest/abtest.sublime-project",
+		"/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Abtest/Abtest.py",
+		"/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Launch_Control_XL_sebas/LaunchControlXL.py",
+		"/Users/sebastianbermeo/Downloads/abletonSuite/Launchpad_Pro95/DeviceComponent.py",
+		"/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/NanoPad2/ButtonElement.py",
+		"/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Launch_Control_XL_sebas/SkinDefault.py",
+		"/Users/sebastianbermeo/Downloads/abletonSuite/AbletonLive9_RemoteScripts-master/Alesis_V/Alesis_V.py",
+		"/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/NanoPad2/DeviceComponent.py",
+		"/Users/sebastianbermeo/Downloads/abletonSuite/AbletonLive9_RemoteScripts-master/Alesis_V/__init__.py",
+		"/Users/sebastianbermeo/Downloads/abletonSuite/AbletonLive9_RemoteScripts-master/_Generic/GenericScript.py",
+		"/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Launch_Control_XL_sebas/anacondaProject.sublime-project",
+		"/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Launchpad_Pro95/ClipActionsComponent.py",
+		"/Users/sebastianbermeo/Downloads/Sigabort - LaunchControl XXL Control Surface Script V2.7.11b/Live 9.6/Launch_Control_XXL/config.txt",
+		"/Users/sebastianbermeo/Library/Preferences/Ableton/Live 9.7/Log.txt",
+		"/Users/sebastianbermeo/Downloads/stc-1.2.9/Selected_Track_Control/DeviceControl.py",
+		"/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Launch_Control_XL/anacondaProject.sublime-project",
+		"/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Launch_Control_XLTest/__init__.py",
+		"/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Launch_Control_XLTest/Launch_Control_XLTest.py",
+		"/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Launch_Control_XL-test/__init__.py",
+		"/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/LaunchControlXLSebas/LaunchControlXLSebas.py",
+		"/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/LaunchControlXLSebas/DeviceComponent.py",
+		"/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/LaunchControlXLSebas/__init__.py",
+		"/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/LaunchControlXLSebas/ButtonElement.py",
+		"/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/LaunchControlXLSebas/SkinDefault.py",
+		"/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/LaunchControlXLSebas/MixerComponent.py",
+		"/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/Launch_Control_XL-sebas/__init__.py",
+		"/Users/sebastianbermeo/Downloads/AbletonLive9_RemoteScripts-master/Launch_Control_XL-sebas/__init__.py",
+		"/Users/sebastianbermeo/Downloads/AbletonLive9_RemoteScripts-master/Launch_Control_XL-sebas/LaunchControlXLSebas.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/sebastianbermeo/Downloads/abletonSuite/AbletonLive9_RemoteScripts-master"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sebasChannel",
+			"DeviceComponent",
+			"_pan_device_encoders",
+			"TriggerFinger\nTriggerFinger",
+			"LaunchControlXL",
+			"_pan_device_mode_button",
+			"_pan_device_encoders",
+			"_send_live_template",
+			"_send_midi",
+			"_create_device_all",
+			"log"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sebukyChannel"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Abtest.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7813,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								757,
+								757
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Applications/Ableton Live 9 Suite.app/Contents/App-Resources/MIDI Remote Scripts/NanoPad2/NanoPad2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								527,
+								550
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "abtest.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
